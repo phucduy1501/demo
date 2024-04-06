@@ -1,5 +1,5 @@
 on: push
-job:
+jobs:
   first-job:
     run-on: window-latest
     steps:
